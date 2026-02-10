@@ -1,0 +1,10 @@
+
+# Code Devops :
+
+#chmod 744 filename
+# echo "# comment " >> filename
+# git checked -b branchname ..... to create new branch
+# git branch ..... to view all branch exist
+# git push --set -upstream link repositry in the github and branchname......to push new branch
+ 
+
